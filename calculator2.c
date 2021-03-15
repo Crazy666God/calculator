@@ -17,6 +17,7 @@ int main(int argc, char **argv)
   }
   else
     printf("Введите боьше данных\n");
+  printf("aga\n");
   return 0;
 }
 
