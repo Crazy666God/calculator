@@ -62,7 +62,7 @@ double factor_number(char *str)
     ++index;
     res = ft_res(str);
     if(str[index] != ')')
-      printf("Скобки закрой дебил\n");
+      printf("Скобки закрой\n");
     ++index;
   }
   else 
